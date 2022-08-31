@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054095310634",
+    "project_id": "home-automation-76c1f",
+    "storage_bucket": "home-automation-76c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054095310634:android:b6a5f8dc9807c9cf0da853",
+        "android_client_info": {
+          "package_name": "com.prank.cardviewdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054095310634-enblffhr7nooq59cht4r1h6tvrtn0av4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ck_3saeDczjLx1VAXCYyrAvj8ECoo5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054095310634-enblffhr7nooq59cht4r1h6tvrtn0av4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
