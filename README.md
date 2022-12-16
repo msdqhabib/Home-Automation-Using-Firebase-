@@ -8,7 +8,7 @@ Remote controlled home automation system provides a most modern solution with sm
 ## Installation
 
 To implement this project follow these steps.
-- Download this Repository
+- Clone this Repository
 - Build hardware according to circuit Diagram
 - Run Android app in Android Studio
 - Do Firebase Configration with your Android Studio
